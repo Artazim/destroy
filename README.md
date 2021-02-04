@@ -1,0 +1,2 @@
+# destroy
+destroy the world
